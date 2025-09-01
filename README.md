@@ -1,7 +1,5 @@
 # Anomaly-Detection-in-Surveillance-Videos
 
-![Anomaly Detection](screenshots/anomaly_example.png)
-
 ## Project Overview
 This project presents a **deep learning pipeline** for detecting anomalies in surveillance videos using the **UCF-Crime dataset**. The system is designed to automatically identify unusual events (like fights, thefts, or accidents) in CCTV footage, enhancing real-time surveillance efficiency and automated threat recognition.
 
