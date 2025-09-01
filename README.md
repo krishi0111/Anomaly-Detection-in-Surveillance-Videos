@@ -36,4 +36,3 @@ Each video is organized into folders corresponding to its label, facilitating st
 - **Frameworks**: Python, PyTorch/TensorFlow (depending on implementation), OpenCV
 - **Evaluation**: Accuracy, precision, recall, F1-score
 
-## Folder Structure
